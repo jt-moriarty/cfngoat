@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: AWS CloudFormation Template to deploy insecure infrastructure
 Parameters:
-  # A Test Comment II: Son of Test Comment
+  ### A Test Comment III: Bride of Test Comment
   CompanyName:
     Description: Company Name
     Type: String
