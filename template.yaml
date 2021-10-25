@@ -4,4 +4,4 @@ Resources:
     Bucket:
         Type: AWS::S3::Bucket
         Properties:
-            BucketName: techex-test-bucket-t5-211025 # use your own unique name goes here
+            BucketName: techex-test-bucket-t5-211025 # unique bucket name
